@@ -1,0 +1,21 @@
+C:\Users\Lenovo\source\repos\14.01.22\14.01.22\bin\Debug\14.01.22.exe.config
+C:\Users\Lenovo\source\repos\14.01.22\14.01.22\bin\Debug\14.01.22.exe
+C:\Users\Lenovo\source\repos\14.01.22\14.01.22\bin\Debug\14.01.22.pdb
+C:\Users\Lenovo\source\repos\14.01.22\14.01.22\obj\Debug\14.01.22.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\14.01.22\14.01.22\obj\Debug\_14._01._22.Form1.resources
+C:\Users\Lenovo\source\repos\14.01.22\14.01.22\obj\Debug\_14._01._22.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\14.01.22\14.01.22\obj\Debug\14.01.22.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\14.01.22\14.01.22\obj\Debug\14.01.22.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\14.01.22\14.01.22\obj\Debug\14.01.22.exe
+C:\Users\Lenovo\source\repos\14.01.22\14.01.22\obj\Debug\14.01.22.pdb
+C:\Users\Lenovo\Desktop\Новая папка\14.01.22\14.01.22\obj\Debug\14.01.22.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Новая папка\14.01.22\14.01.22\obj\Debug\_14._01._22.Form1.resources
+C:\Users\Lenovo\Desktop\Новая папка\14.01.22\14.01.22\obj\Debug\_14._01._22.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Новая папка\14.01.22\14.01.22\obj\Debug\14.01.22.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Новая папка\14.01.22\14.01.22\obj\Debug\14.01.22.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Новая папка\14.01.22\14.01.22\obj\Debug\14.01.22.exe
+C:\Users\Lenovo\Desktop\Новая папка\14.01.22\14.01.22\obj\Debug\14.01.22.pdb
+C:\Users\Lenovo\Desktop\Новая папка\14.01.22\14.01.22\bin\Debug\14.01.22.exe.config
+C:\Users\Lenovo\Desktop\Новая папка\14.01.22\14.01.22\bin\Debug\14.01.22.exe
+C:\Users\Lenovo\Desktop\Новая папка\14.01.22\14.01.22\bin\Debug\14.01.22.pdb
+C:\Users\Lenovo\Desktop\Новая папка\14.01.22\14.01.22\obj\Debug\_14._01._22.Form2.resources
